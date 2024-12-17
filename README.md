@@ -1,6 +1,8 @@
 # Final
 Финальная работа
 Добрый день, представляю вашему вниманию проект на тему "Система онлайн-заказа еды"
+
+'''
 class Menu:
     def __init__(self):
         self.items = {}
@@ -76,5 +78,6 @@ delivery.start_delivery()
 delivery.display_status()
 delivery.complete_delivery()
 delivery.display_status()
+'''
 
 <img src="https://raw.githubusercontent.com/D1nteSS/Final/513b73c0d6fcee61dc8ca8f765782a619ef5a26b/bpmn/diagram1.svg">
